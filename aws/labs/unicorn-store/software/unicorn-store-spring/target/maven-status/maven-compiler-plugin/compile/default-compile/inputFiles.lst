@@ -1,0 +1,9 @@
+/home/ec2-user/environment/aws-lambda-java-workshop/labs/unicorn-store/software/unicorn-store-spring/src/main/java/com/unicorn/store/StoreApplication.java
+/home/ec2-user/environment/aws-lambda-java-workshop/labs/unicorn-store/software/unicorn-store-spring/src/main/java/com/unicorn/store/controller/UnicornController.java
+/home/ec2-user/environment/aws-lambda-java-workshop/labs/unicorn-store/software/unicorn-store-spring/src/main/java/com/unicorn/store/data/UnicornPublisher.java
+/home/ec2-user/environment/aws-lambda-java-workshop/labs/unicorn-store/software/unicorn-store-spring/src/main/java/com/unicorn/store/data/UnicornRepository.java
+/home/ec2-user/environment/aws-lambda-java-workshop/labs/unicorn-store/software/unicorn-store-spring/src/main/java/com/unicorn/store/exceptions/PublisherException.java
+/home/ec2-user/environment/aws-lambda-java-workshop/labs/unicorn-store/software/unicorn-store-spring/src/main/java/com/unicorn/store/exceptions/ResourceNotFoundException.java
+/home/ec2-user/environment/aws-lambda-java-workshop/labs/unicorn-store/software/unicorn-store-spring/src/main/java/com/unicorn/store/model/Unicorn.java
+/home/ec2-user/environment/aws-lambda-java-workshop/labs/unicorn-store/software/unicorn-store-spring/src/main/java/com/unicorn/store/model/UnicornEventType.java
+/home/ec2-user/environment/aws-lambda-java-workshop/labs/unicorn-store/software/unicorn-store-spring/src/main/java/com/unicorn/store/service/UnicornService.java
